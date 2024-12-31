@@ -1,4 +1,4 @@
-<h1>Installing Active Directory</h1>
+<h1>Installing Active Directory and Creating a Domain</h1>
 
 
 <h2>Description</h2>
